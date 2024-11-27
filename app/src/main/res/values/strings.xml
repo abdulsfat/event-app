@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="send">Kirim</string>
+    <string name="register">Daftar</string>
+    <string name="detail_event">Detail Event</string>
+    <string name="date_event">Date Event</string>
+    <string name="locaiton_online">Locaiton: Online</string>
+    <string name="quota">Quota: 1000</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="favorite_events">Favorite Events</string>
+    <string name="ownerName">Name Owner</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_button">favorite</string>
+    <string name="not_favorite">Tidak Ada Kegiatan Favorit Anda</string>
+
+
+</resources>
